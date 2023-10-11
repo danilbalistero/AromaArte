@@ -14,7 +14,7 @@ Baixe suas receitas favoritas para acesso sem conexão à internet.
 Informações detalhadas sobre ingredientes, instruções, tempo de cozimento e porções.
 
 * **Perfis Personalizáveis:**
-Salve suas receitas favoritas, adicione suas proprias receitas.
+Salve suas receitas favoritas e adicione suas proprias receitas.
 
 
 <h4 align="center"> 
