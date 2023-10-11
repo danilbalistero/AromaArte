@@ -1,4 +1,4 @@
-# AromaArte
+
 <h1 align="center"> AromaArte - Seu Companheiro Culinário </h1>
 
 Bem-vindo ao AromaArte, o aplicativo que transforma a culinária em uma experiência simples, intuitiva e inspiradora. Com o AromaArte, você pode explorar uma vasta coleção de receitas, personalizar seu perfil, adicionar suas próprias criações e desfrutar de uma experiência de culinária perfeita, tanto online quanto offline.
