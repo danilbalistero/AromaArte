@@ -1,0 +1,95 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #efdcc8;
+}
+
+
+h1 {
+  color: #d3cccf;
+  margin: 0px;
+  background: #333;
+  border-radius: 30px;
+}
+
+p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: medium;
+  color: rgb(39, 37, 37);
+}
+
+.celular {
+  position: relative;
+  width: 400px;
+  height: 868px;
+  background: #b46078;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+  text-align: center;
+  margin: auto;
+  justify-content: flex-start
+}
+
+.status-bar {
+  height: 30px;
+  background: #333;
+}
+
+.screen {
+  padding: 20px;
+
+}
+
+
+img {
+  display: flex;
+  margin: 15px;
+  max-width: 41%;
+  height: 140px;
+}
+
+.profile {
+  background: #333;
+  height: 9rem;
+  width: 9rem;
+  border-radius: 50%;
+  margin: auto;
+  padding: 20px;
+}
+
+.button-container {
+  text-align: center;
+  /* Centralize o conteúdo horizontalmente */
+  margin-top: 20px;
+  /* Adicione um espaçamento acima do botão */
+}
+
+.botao-receita {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.botao-receita:hover {
+  background-color: #9029b9;
+}
+
+.imagens-container {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 600px;
+  margin: 0 auto;
+  align-content: center;
+  justify-content: space-evenly;
+}
+
+.imagens-container img {
+  margin-right: 15px;
+}

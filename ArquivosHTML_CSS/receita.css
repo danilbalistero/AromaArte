@@ -1,0 +1,75 @@
+/* Estilos gerais */
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #efdcc8;
+}
+
+.container {
+    position: relative;
+    width: 400px;
+    height: 868px;
+    background: #b46078;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+    text-align: center;
+    margin: auto;
+
+}
+
+.status-bar {
+    height: 30px;
+    background: #333;
+}
+
+.screen {
+    padding: 20px
+}
+
+
+h1 {
+    color: #d3cccf;
+    margin: 0px;
+    background: #333;
+    border-radius: 30px;
+}
+
+
+/* Estilos para o formulário */
+form {
+    margin-top: 20px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    padding: 10px;
+}
+
+input[type="file"],
+textarea {
+    width: 90%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #2581c4;
+}
